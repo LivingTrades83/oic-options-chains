@@ -180,7 +180,7 @@ insert into oic.option_chain (
   date,
   bid,
   ask,
-  model_price,
+  model_value,
   vol,
   delta,
   gamma,

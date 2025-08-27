@@ -13,7 +13,7 @@ CREATE TABLE oic.option_chain
   date date NOT NULL,
   bid numeric,
   ask numeric,
-  model_price numeric,
+  model_value numeric,
   vol numeric,
   delta numeric,
   gamma numeric,
